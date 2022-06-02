@@ -12,3 +12,4 @@ print("optimal value",prob.value)
 print("optimal var",x.value,y.value)
 z=cp.Variable(1,boolean=True)
 a=1
+b=2
