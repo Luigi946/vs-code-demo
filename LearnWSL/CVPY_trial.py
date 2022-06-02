@@ -14,4 +14,3 @@ z=cp.Variable(1,boolean=True)
 a=1
 b=1
 c=2
-dfjkjfasldkfjsldk
